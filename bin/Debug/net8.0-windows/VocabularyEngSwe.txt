@@ -1,0 +1,20 @@
+Hello;Hej;A greeting used when meeting someone;Hello everyone!
+Goodbye;Hej då;A friendly expression said when leaving;Goodbye and see you tomorrow!
+Thank you;Tack;Used to express gratitude;Thank you for your help.
+Please;Snälla;A polite way to ask for something;Please help me with this task.
+Yes;Ja;Used to agree or confirm;Yes I understand the question.
+No;Nej;Used to disagree or decline;No I do not want coffee.
+Book;Bok;A written work made of pages;I am reading an interesting book.
+School;Skola;A place where students learn;The school opens at eight.
+Teacher;Lärare;A person who helps students learn;Our teacher explains the lesson.
+Friend;Vän;A person you like and trust;My best friend lives nearby.
+Water;Vatten;A liquid people drink every day;Can I have some water?
+House;Hus;A building where people live;Their house has a red door.
+Food;Mat;Things that people eat;The food tastes delicious.
+Morning;Morgon;The early part of the day;I study every morning.
+Evening;Kväll;The later part of the day;We watch films in the evening.
+Happy;Glad;Feeling joy or pleasure;She feels happy today.
+Small;Liten;Not large in size;The dog is small.
+Beautiful;Vacker;Pleasing to look at;It is a beautiful city.
+Learn;Lära sig;To gain knowledge or a new skill;I want to learn Swedish.
+Understand;Förstå;To know the meaning of something;I understand the instructions.

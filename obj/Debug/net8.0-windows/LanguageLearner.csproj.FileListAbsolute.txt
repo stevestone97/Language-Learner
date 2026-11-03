@@ -1,0 +1,45 @@
+D:\projects\LanguageLearner_GradeD\LanguageLearner\bin\Debug\net8.0-windows\VocabularyEngSwe.txt
+D:\projects\LanguageLearner_GradeD\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.exe
+D:\projects\LanguageLearner_GradeD\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.deps.json
+D:\projects\LanguageLearner_GradeD\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.runtimeconfig.json
+D:\projects\LanguageLearner_GradeD\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.dll
+D:\projects\LanguageLearner_GradeD\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.pdb
+D:\projects\LanguageLearner_GradeD\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\LanguageLearner_GradeD\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.AssemblyInfoInputs.cache
+D:\projects\LanguageLearner_GradeD\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.AssemblyInfo.cs
+D:\projects\LanguageLearner_GradeD\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.csproj.CoreCompileInputs.cache
+D:\projects\LanguageLearner_GradeD\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.dll
+D:\projects\LanguageLearner_GradeD\LanguageLearner\obj\Debug\net8.0-windows\refint\LanguageLearner.dll
+D:\projects\LanguageLearner_GradeD\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.pdb
+D:\projects\LanguageLearner_GradeD\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.genruntimeconfig.cache
+D:\projects\LanguageLearner_GradeD\LanguageLearner\obj\Debug\net8.0-windows\ref\LanguageLearner.dll
+f:\C# Projects\A4\A4\LanguageLearner\bin\Debug\net8.0-windows\VocabularyEngSwe.txt
+f:\C# Projects\A4\A4\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.exe
+f:\C# Projects\A4\A4\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.deps.json
+f:\C# Projects\A4\A4\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.runtimeconfig.json
+f:\C# Projects\A4\A4\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.dll
+f:\C# Projects\A4\A4\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.pdb
+f:\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.GeneratedMSBuildEditorConfig.editorconfig
+f:\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.AssemblyInfoInputs.cache
+f:\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.AssemblyInfo.cs
+f:\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.csproj.CoreCompileInputs.cache
+f:\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.dll
+f:\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\refint\LanguageLearner.dll
+f:\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.pdb
+f:\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.genruntimeconfig.cache
+f:\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\ref\LanguageLearner.dll
+F:\Projects\C# Projects\A4\A4\LanguageLearner\bin\Debug\net8.0-windows\VocabularyEngSwe.txt
+F:\Projects\C# Projects\A4\A4\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.exe
+F:\Projects\C# Projects\A4\A4\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.deps.json
+F:\Projects\C# Projects\A4\A4\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.runtimeconfig.json
+F:\Projects\C# Projects\A4\A4\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.dll
+F:\Projects\C# Projects\A4\A4\LanguageLearner\bin\Debug\net8.0-windows\LanguageLearner.pdb
+F:\Projects\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.AssemblyInfoInputs.cache
+F:\Projects\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.AssemblyInfo.cs
+F:\Projects\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.csproj.CoreCompileInputs.cache
+F:\Projects\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.dll
+F:\Projects\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\refint\LanguageLearner.dll
+F:\Projects\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.pdb
+F:\Projects\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\LanguageLearner.genruntimeconfig.cache
+F:\Projects\C# Projects\A4\A4\LanguageLearner\obj\Debug\net8.0-windows\ref\LanguageLearner.dll
